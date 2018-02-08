@@ -1,0 +1,48 @@
+baseURL = "https://blog.seric.at/"
+languageCode = "de-de"
+title = "Franziskus Domig"
+description = "photography, programming, politics, life and everything else"
+theme = "blackburn"
+
+[params]
+  # Shown in the home page
+  subtitle = "blog.seric.at"
+  brand = "FD"
+  googleAnalytics = "UA-21340947-1"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "2006-01-02, 15:04"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Photography"
+    pre = "<i class='fa fa-camera fa-fw'></i>"
+    weight = 2
+    identifier = "photography"
+    url = "/photography/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 4
+    identifier = "about"
+    url = "/about/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "fdomig"
+  facebook = "fdomig"
+  github = "fdomig"
+  stackoverflow = "246051/fdomig"
+  linkedin = "fdomig"
