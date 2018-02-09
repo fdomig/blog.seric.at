@@ -1,4 +1,4 @@
-baseURL = "https://blog.seric.at/"
+baseURL = "http://seric.at/"
 languageCode = "de-de"
 title = "Franziskus Domig"
 description = "photography, programming, politics, life and everything else"
@@ -6,7 +6,7 @@ theme = "blackburn"
 
 [params]
   # Shown in the home page
-  subtitle = "blog.seric.at"
+  subtitle = "seric.at"
   brand = "FD"
   googleAnalytics = "UA-21340947-1"
   # CSS name for highlight.js
