@@ -15,9 +15,9 @@ url: /2008/03/15/um-die-nachbarn-neidisch-zu-stimmen/
 
 &#8230; schmeiße ich mal den Grill an und umhülle die Umgebung mit herrlichem Duft. Das Wetter ist mit 18°C auch richtig einladend um das Essen bereits zu dieser Jahreszeit draußen zuzubereiten. Mahlzeit.
 
-[<img class="alignnone size-medium attachment wp-att-37" title="dsc00342" src="https://seric.at/blog/uploads/2008/03/dsc00342-466x350.jpg" alt="" width="466" height="350" />][1]
+[<img class="alignnone size-medium attachment wp-att-37" title="dsc00342" src="/uploads/2008/03/dsc00342-466x350.jpg" alt="" width="466" height="350" />][1]
 
-[<img class="alignnone size-medium attachment wp-att-38" title="dsc00343" src="https://seric.at/blog/uploads/2008/03/dsc00343-466x350.jpg" alt="" width="466" height="350" />][2]
+[<img class="alignnone size-medium attachment wp-att-38" title="dsc00343" src="/uploads/2008/03/dsc00343-466x350.jpg" alt="" width="466" height="350" />][2]
 
- [1]: http://seric.at/blog/uploads/2008/03/dsc00342.jpg
- [2]: http://seric.at/blog/uploads/2008/03/dsc00343.jpg
+ [1]: /uploads/2008/03/dsc00342.jpg
+ [2]: /uploads/2008/03/dsc00343.jpg

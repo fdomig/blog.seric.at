@@ -22,5 +22,5 @@ Alles in allem eine tolle Weiterentwicklung von Ubuntu Gutsy Gibbon.
  [1]: http://www.ubuntu.com
  [2]: http://www.kernel.org
  [3]: http://www.mozilla.org
- [4]: http://seric.at/blog/2008/03/13/gnome-222/
+ [4]: /2008/03/13/gnome-222
  [5]: https://launchpad.net/ubuntu

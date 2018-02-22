@@ -24,7 +24,7 @@ Nun berichtet Golem auch noch darüber, dass [im Moment der Zug ohne Windows fä
 
 [Der Trend ist der richtige][5], allerdings fehlt es Asus, Acer und Co. im Moment noch an entsprechendem Selbstvertrauen um Windows in manchen Sparten komplett durch Linux zu ersetzen.
 
- [1]: http://seric.at/blog/2008/05/08/asus-eee-900-windows-xp-statt-linu/
+ [1]: /2008/05/08/asus-eee-900-windows-xp-statt-linu/
  [2]: http://eeepc.asus.com/global/
  [3]: http://en.wikipedia.org/wiki/Solid-state_drive
  [4]: http://www.golem.de/0806/60699.html

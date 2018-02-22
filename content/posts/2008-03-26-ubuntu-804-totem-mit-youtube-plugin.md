@@ -26,4 +26,4 @@ Nun sollte man einen funktionierenden Totem Videoplayer mit Youtube haben.
 
  [1]: http://www.ubuntu.com/testing/hardy/beta "Ubuntu 8.04 Hardy Beta Release"
  [2]: http://www.youtube.com
- [3]: http://seric.at/blog/uploads/2008/03/totem_youtube_2.png
+ [3]: /uploads/2008/03/totem_youtube_2.png
